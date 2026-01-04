@@ -1,0 +1,7 @@
+body {
+  background-color: var(--clr-white);
+  color: var(--clr-primary-dark);
+
+  font-family: var(--font-main);
+
+}

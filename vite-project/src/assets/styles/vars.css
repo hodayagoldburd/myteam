@@ -1,0 +1,17 @@
+:root {
+  /* Primary */
+  --clr-primary-dark: #014E56;
+  --clr-primary-accent: #F67E7E;
+  --clr-white: #FFFFFF;
+
+  /* Secondary */
+  --clr-secondary-light: #79C8C7;
+  --clr-secondary-blue: #2C6269;
+  --clr-secondary-dark: #004047;
+  --clr-secondary-darker: #012F34;
+  --clr-secondary-darkest: #002529;
+
+  /* Fonts  */
+   --font-main: 'Livvic', sans-serif;
+}
+
