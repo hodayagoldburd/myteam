@@ -1,11 +1,16 @@
+import { Routes, Route } from 'react-router-dom'
 import { Header } from './cmp/Header'
-import { MainSection } from './cmp/MainSection'
+import { Home } from './Pages/Home'
+import { Footer } from './cmp/Footer'
 
 export function App() {
   return (
     <>
       <Header />
-      <MainSection />
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+      <Footer />
     </>
   )
 }
