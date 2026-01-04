@@ -1,0 +1,18 @@
+.main-section {
+  background-color: var(--clr-secondary-blue);
+  color: var(--clr-white);
+  padding: 120px 24px;
+  text-align: center;
+}
+
+.main-title {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 48px;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+.main-title-accent {
+  color: var(--clr-secondary-light);
+}
