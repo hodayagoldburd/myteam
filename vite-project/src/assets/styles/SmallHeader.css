@@ -1,5 +1,10 @@
 .small-header {
     background-color: var(--clr-secondary-blue);
     color: var(--clr-white);
-    font-size: 22px;
+    font-weight: 700;
+    font-size: 26px;
+
+    .highlight {
+        color: var(--clr-primary-accent);
+    }
 }
